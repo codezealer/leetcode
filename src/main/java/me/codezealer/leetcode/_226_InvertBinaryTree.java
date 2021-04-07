@@ -22,7 +22,7 @@ package me.codezealer.leetcode;
  * 9   6 3   1
  */
 
-public class _226InvertBinaryTree {
+public class _226_InvertBinaryTree {
 
     public TreeNode invertTree(TreeNode root) {
         if (root == null) return null;
